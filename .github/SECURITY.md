@@ -34,6 +34,6 @@ To ensure the security of the Fake Data Generator, please note the following pra
 
 ## Other Resources
 
-For more information about security or for specific questions, read the [Wiki](https://github.com/the13joker1/Fake-data-generator/wiki) or look at the [Discussion](https://github.com/the13joker1/Fake-data-generator/discussions).
+For more information about security or for specific questions, read the [Wiki](https://github.com/its-tujo/Fake-data-generator/wiki) or look at the [Discussion](https://github.com/its-tujo/Fake-data-generator/discussions).
 
 ***
