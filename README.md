@@ -12,7 +12,7 @@
 
 <h2>🚀 Demo</h2>
 
-<p><a href="[https://its-tujo.github.io/Fake-data-generator/](http://tujo.is-cool.dev/Fake-data-generator/)">https://tujo.is-cool.dev/Fake-data-generator/</a></p>
+<p><a href="[https://its-tujo.github.io/Fake-data-generator/](http://tujo.is-cool.dev/Fake-data-generator/)"</a></p>
 
 <h2>🧐 Features</h2>
 
