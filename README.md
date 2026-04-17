@@ -54,7 +54,7 @@ The generated data is based on publicly available databases and is for illustrat
 
 <h2>👤 Author</h2>
 
-Developed by TuJo(its-tujo) {earlier THE_13joker1}
+Developed by TuJo(its-tujo)
 
 <h2>📜 License</h2>
 
