@@ -16,12 +16,12 @@ The team behind the Fake Data Generator is responsible for:
 
 ## Reporting of security problems
 
-If you discover a security issue, please report it confidentially to THE_13joker1 on  [Reddit](https://www.reddit.com/user/THE_13joker1/) or Email (the.13joker1@gmail.com)
+If you discover a security issue, please report it confidentially to TuJo vi  Email (security@tujo.is-cool.dev)
 
-THE_13joker1 will respond as soon as possible and take appropriate action.
+TuJo will respond as soon as possible and take appropriate action.
 
-## Security practices
-
+## Security practice
+s
 To ensure the security of the Fake Data Generator, please note the following practices:
 
 - Keep the Fake Data Generator and its dependencies up to date.
@@ -36,40 +36,4 @@ To ensure the security of the Fake Data Generator, please note the following pra
 
 For more information about security or for specific questions, read the [Wiki](https://github.com/the13joker1/Fake-data-generator/wiki) or look at the [Discussion](https://github.com/the13joker1/Fake-data-generator/discussions).
 
-***
-
-# Sicherheitsrichtlinien für den Fake Data Generator
-
-Dieses Dokument enthält Informationen zur Sicherheit des Fake Data Generators und wie Sicherheitsprobleme gemeldet werden können.
-
-## Unterstützte Versionen
-
-Derzeit unterstützte Versionen des Fake Data Generators:
-
-- [x] Version 1.0.0
-
-## Verantwortlichkeiten
-
-Das Team hinter dem Fake Data Generator ist verantwortlich für:
-
-- Sicherheitsprobleme in unterstützten Versionen zu beheben.
-
-## Meldung von Sicherheitsproblemen
-
-Wenn du ein Sicherheitsproblem entdeckst, melde es bitte vertraulich an THE_13joker1 auf [Github](https://github.com/the13joker1) oder [Reddit](https://www.reddit.com/user/THE_13joker1/)
-
-THE_13joker1 wird so schnell wie möglich antworten und angemessene Maßnahmen ergreifen.
-
-## Sicherheitspraktiken
-
-Um die Sicherheit des Fake Data Generators zu gewährleisten, beachte bitte folgende Praktiken:
-
-- Halte den Fake Data Generator und seine Abhängigkeiten auf dem neuesten Stand.
-- Verwende starke Passwörter und gehe sorgfältig mit Zugriffsberechtigungen um.
-- Überprüfe und validiere alle Eingaben, bevor sie verarbeitet werden.
-- Implementiere Sicherheitsbest Practices in Code und Konfiguration.
-
-## Weitere Ressourcen
-
-Für weitere Informationen zur Sicherheit oder für spezifische Fragen, lese das [Wiki](https://github.com/the13joker1/Fake-data-generator/wiki) oder schaue in die [Discussion](https://github.com/the13joker1/Fake-data-generator/discussions) .
 ***
