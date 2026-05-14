@@ -16,7 +16,7 @@ The team behind the Fake Data Generator is responsible for:
 
 ## Reporting of security problems
 
-If you discover a security issue, please report it confidentially to TuJo vi  Email (security@tujo.is-cool.dev)
+If you discover a security issue, please report it confidentially to TuJo via  Email (security@tujo.is-cool.dev)
 
 TuJo will respond as soon as possible and take appropriate action.
 
