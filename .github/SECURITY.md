@@ -21,7 +21,7 @@ If you discover a security issue, please report it confidentially to TuJo via  E
 TuJo will respond as soon as possible and take appropriate action.
 
 ## Security practice
-s
+
 To ensure the security of the Fake Data Generator, please note the following practices:
 
 - Keep the Fake Data Generator and its dependencies up to date.
